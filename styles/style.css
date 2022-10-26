@@ -1,0 +1,33 @@
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    width: 3rem;
+}
+.collapse{
+    position: relative;
+    left: 65rem;
+}
+body{
+    background-image: url(https://i.pinimg.com/originals/57/aa/1f/57aa1fab9640c96d2ce1aaf7be86da54.jpg);
+    background-size: cover;
+    overflow-x: hidden;
+    background-attachment: fixed ;
+}
+.nav-item a:hover{
+    color: red;
+}
+i{
+    color: azure;
+}
+.nav-item2{
+position:relative;
+left: 15rem;
+}
+.navbar1{
+    margin-top: 5rem;
+}
